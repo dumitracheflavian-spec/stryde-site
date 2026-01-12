@@ -1,1 +1,1 @@
-# stryde-site
+#index.html
