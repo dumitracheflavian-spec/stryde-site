@@ -1,1 +1,2 @@
-# stryde-site
+stryde-site/
+ └─ index.html
